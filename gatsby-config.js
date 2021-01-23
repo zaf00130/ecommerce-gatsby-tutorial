@@ -7,6 +7,16 @@ module.exports = {
     title: `Gatsby E-Commerce Starter`,
     description: `Accept payments in your Gatsby site using Stripe Checkout.`,
     author: `@thorwebdev`,
+    menuLinks:[
+      {
+         name:'home',
+         link:'/'
+      },
+      {
+         name:'support',
+         link:'/support'
+      }
+    ]
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
