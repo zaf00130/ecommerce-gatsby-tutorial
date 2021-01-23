@@ -12,10 +12,6 @@ const IndexPage = () => (
     <SEO title="Terms" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Terms</h1>
     <p>If you need help please contact using a method listed below</p>
-    <Link to="/support/">Support</Link>
-    <Link to="/terms/">Terms</Link>
-    <Link to="/about/">About</Link>
-    <Link to="/privacy/">Privacy</Link>
     <h1>Disclaimer</h1>
 <p>Last updated: January 23, 2021</p>
 <h1>Interpretation and Definitions</h1>
