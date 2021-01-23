@@ -7,6 +7,7 @@
 <h1 align="center">
   Gatsby E-Commerce Starter
 </h1>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb15ed70-a49c-4bf0-a869-df9cb819fb50/deploy-status)](https://app.netlify.com/sites/sad-poitras-01dad7/deploys)
 
 This is a Gatsby e-commerce example based on https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/
 
