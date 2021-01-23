@@ -1,13 +1,12 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+    <img "src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
   Gatsby E-Commerce Starter
 </h1>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fb15ed70-a49c-4bf0-a869-df9cb819fb50/deploy-status)](https://app.netlify.com/sites/sad-poitras-01dad7/deploys)
 
 This is a Gatsby e-commerce example based on https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/
 
@@ -27,3 +26,5 @@ This is a Gatsby e-commerce example based on https://www.gatsbyjs.org/tutorial/e
 ### 💫 Deploy with Netlify
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thorsten-stripe/ecommerce-gatsby-tutorial)
+<br />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb15ed70-a49c-4bf0-a869-df9cb819fb50/deploy-status)](https://app.netlify.com/sites/sad-poitras-01dad7/deploys)
