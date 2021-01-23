@@ -9,12 +9,24 @@ module.exports = {
     author: `@thorwebdev`,
     menuLinks:[
       {
-         name:'home',
+         name:'Home',
          link:'/'
       },
       {
-         name:'support',
+         name:'Support',
          link:'/support'
+      }
+      {
+         name:'Terms',
+         link:'/terms'
+      }
+      {
+         name:'About',
+         link:'/about'
+      }
+      {
+         name:'Privacy',
+         link:'/privacy'
       }
     ]
   },
