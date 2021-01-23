@@ -15,15 +15,15 @@ module.exports = {
       {
          name:'Support',
          link:'/support'
-      }
+      },
       {
          name:'Terms',
          link:'/terms'
-      }
+      },
       {
          name:'About',
          link:'/about'
-      }
+      },
       {
          name:'Privacy',
          link:'/privacy'
