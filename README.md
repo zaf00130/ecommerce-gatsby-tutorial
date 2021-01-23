@@ -25,6 +25,8 @@ This is a Gatsby e-commerce example based on https://www.gatsbyjs.org/tutorial/e
 
 ### 💫 Deploy with Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thorsten-stripe/ecommerce-gatsby-tutorial)
-<br />
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fb15ed70-a49c-4bf0-a869-df9cb819fb50/deploy-status)](https://app.netlify.com/sites/sad-poitras-01dad7/deploys)
+
+<br />
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thorsten-stripe/ecommerce-gatsby-tutorial)
