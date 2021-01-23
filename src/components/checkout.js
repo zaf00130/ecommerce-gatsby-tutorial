@@ -46,7 +46,7 @@ const Checkout = () => {
       }
       onClick={redirectToCheckout}
     >
-      BUY MY BOOK
+      Buy a Dog Bowl Tray
     </button>
   )
 }
