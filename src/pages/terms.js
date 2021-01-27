@@ -11,7 +11,6 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Terms" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Terms</h1>
-    <p>If you need help please contact using a method listed below</p>
     <h1>Disclaimer</h1>
 <p>Last updated: January 23, 2021</p>
 <h1>Interpretation and Definitions</h1>
@@ -64,7 +63,6 @@ The following definitions shall have the same meaning regardless of whether they
 </li>
 </ul>
   <h1>Terms & Conditions</h1>
-    <h2><strong>Terms and Conditions</strong></h2>
 
 <p>Welcome to mathisbuilt!</p>
 

@@ -10,8 +10,6 @@ import Checkout from '../components/checkout'
 const IndexPage = () => (
   <Layout>
     <SEO title="Privacy" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Privacy Policy</h1>
-    <p>If you need help please contact using a method listed below</p>
     <h1>Privacy Policy for mathisbuilt</h1>
 
 <p>At mathisbuilt, accessible from https://mathisbuilt.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by mathisbuilt and how we use it.</p>

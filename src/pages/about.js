@@ -9,9 +9,9 @@ import Checkout from '../components/checkout'
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Help</h1>
-    <p>If you need help please contact using a method listed below</p>
+    <SEO title="About" keywords={[`gatsby`, `application`, `react`]} />
+    <h1>About</h1>
+    <p>Details</p>
     <p>
       Follow{' '}
       <a href="https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/">
