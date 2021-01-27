@@ -10,8 +10,8 @@ import Checkout from '../components/checkout'
 const IndexPage = () => (
   <Layout>
     <SEO title="Terms" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Terms</h1>
-    <h1>Disclaimer</h1>
+    <h1>Terms & Conditions</h1>
+    <h2>Disclaimer</h2>
 <p>Last updated: January 23, 2021</p>
 <h1>Interpretation and Definitions</h1>
 <h2>Interpretation</h2>

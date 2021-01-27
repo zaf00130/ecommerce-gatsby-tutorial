@@ -13,17 +13,12 @@ const IndexPage = () => (
     <h1>About</h1>
     <p>Details</p>
     <p>
-      Follow{' '}
-      <a href="https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/">
-        this tutorial
-      </a>{' '}
-      to build your own.
+    <Link to="/advanced/">Click here to to send us a message</Link>
+      Otherwise please contact us using one of the following
+      Phone: +1.470.825.1752
+      Mail: 178 Baker Britt Rd Thomaston, GA 30286
+      Email: admin@atl15.us
     </p>
-    <Checkout />
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/advanced/">Go to the advanced example</Link>
   </Layout>
 )
 
